@@ -19,3 +19,8 @@ Thumbs.db
 # Ignore temporary files
 *.tmp
 ~$*
+
+# Ignore the images folder under the lectures directory (use forward slashes and a leading slash to anchor to repo root)
+/lectures/HandsOn_Chapter2/images/
+# Ignore the datasets folder under the lectures directory (use forward slashes and a leading slash to anchor to repo root)
+/lectures/HandsOn_Chapter2/datasets/
