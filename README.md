@@ -4,7 +4,7 @@ This is my working Repo for the FIN 220 course I took via Quantopian in the Fall
 
 ## Course Overview
 
-- **Lectures:** All lecture notes and slides and generl data dump
+- **Lectures:** All lecture notes and slides and general data dump
 - **Assignments:** Homework and problem sets with the PDF from the course
 - **Projects:** Group and individual projects
 - **Resources:** Supplementary materials (readings, datasets, etc.)
