@@ -24,4 +24,5 @@ Thumbs.db
 /lectures/HandsOn_Chapter2/images/
 # Ignore the datasets folder under the lectures directory (use forward slashes and a leading slash to anchor to repo root)
 /lectures/HandsOn_Chapter2/datasets/
+/lectures/HandsOn_Chapter2/datasets/housing/
 *.pkl
