@@ -22,7 +22,14 @@ Thumbs.db
 
 # Ignore the images folder under the lectures directory (use forward slashes and a leading slash to anchor to repo root)
 /lectures/HandsOn_Chapter2/images/
+/lectures/HandsOn_Chapter3/images/classification/
 # Ignore the datasets folder under the lectures directory (use forward slashes and a leading slash to anchor to repo root)
 /lectures/HandsOn_Chapter2/datasets/
 /lectures/HandsOn_Chapter2/datasets/housing/
+/lectures/HandsOn_Chapter2/datasets/titanic/
+/lectures/HandsOn_Chapter2/datasets/spam/spam/
+/lectures/HandsOn_Chapter2/datasets/spam/easy_ham/
+/lectures/HandsOn_Chapter3/datasets/
+/lectures/HandsOn_Chapter3/datasets/spam/
+/lectures/HandsOn_Chapter3/datasets/titanic/
 *.pkl
